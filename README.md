@@ -1,7 +1,7 @@
 It is mainly a Tourism related site.
 
 
-project link: https://goer-travel.web.app/
+project link: https://goer-travel-4ee95.web.app/
 
 Technology used: React, Bootstrap, React Router, Firebase, fontawesome
 
